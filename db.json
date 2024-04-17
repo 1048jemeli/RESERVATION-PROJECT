@@ -1,0 +1,102 @@
+{
+    "restaurants": [
+      {
+        "id": "1",
+        "title": "Saina Restaurant",
+        "location": ["Nakuru", "Lake Nakuru"],
+        "open": ["7:00pm-5:00pm"],
+        "Cuisine type": "ethnic",
+        "picture": "https://thasneen.com/cooking/wp-content/uploads/2019/03/Butter-Chicken.jpg"
+      },
+      {
+        "id": "2",
+        "title": "Zuri Restaurant",
+        "location": ["Nairobi", "Karen"], 
+        "open": ["9:00am-9:00pm"],
+        "Cuisine type": "fast food",
+        "picture": "https://howtostartanllc.com/images/business-ideas/business-idea-images/fast-food.jpg"
+      },
+      {
+        "id": "3",
+        "title": "Maliki Restaurant",
+        "location": ["Marsabit", "Harmony spot"],
+        "open": ["7:00pm-6:00pm"],
+        "Cuisine type": "casual dining",
+        "picture": "https://images.otstatic.com/prod1/52488237/1/medium.png"
+      },
+      {
+        "id": "4",
+        "title": "Bilal Restaurant",
+        "location": ["Naivasha","South of Lake Naivasha"],
+        "open": ["8:00am-11:00pm"],
+        "Cuisine type": "family style",
+        "picture": "https://mickeyblog.com/wp-content/uploads/2021/09/Magical-Dining-3-720x340.jpg"
+      },
+      {
+        "id": "5",
+        "title": "Clays Restaurant",
+        "location": ["Eldoret", "Upper Elgon View"],
+        "open": ["6:00am-10:00pm"],
+        "Cuisine type": "fine dining",
+        "picture": "https://img.delicious.com.au/qmZXn3pY/del/2023/01/stokehouse-181853-1.jpg"
+      
+      },
+      {
+        "id": "6",
+        "title": "Djond Restaurant",
+        "location": ["Nyeri", "Nyeri Hills"],
+        "open": ["5:00am-11:00pm"],
+        "Cuisine type": "Italian cuisine",
+        "picture": "https://facts.net/wp-content/uploads/2023/05/Slice-of-lasagna-410x260.jpeg" 
+      },
+      {
+        "id": "7",
+        "title": "Afili Restaurant",
+        "location": ["Kisumu", "West Kajulu"],
+        "open": ["8:00am-9:00pm"],
+        "Cuisine type": "french cuisine",
+        "picture": "https://www.restaurantconfusion.com/wp-content/uploads/2021/01/french-cuisine-840x473.jpg"
+      },
+      {
+        "id": "8",
+        "title": "Bree Restaurant",
+        "location": ["Mombasa", "Nyali Beach"],
+        "open": ["6:00am-10:00pm"],
+        "Cuisine type": "Indian cuisine",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tan_Ngang.JPG/315px-Tan_Ngang.JPG"
+      },
+      {
+        "id": "9",
+        "title": "Light Restaurant",
+        "location": ["Malindi", "MamaSavana"],
+        "open": ["8:00am-11:00pm"],
+        "Cuisine type": "American cuisine",
+        "picture": "https://resizer.otstatic.com/v2/photos/wide-large/1/41690830.jpg"
+      },
+      {
+        "id": "10",
+        "title": "Zion Restaurant",
+        "location": ["Machakos", "Iveti Hills"],
+        "open": ["6:00am-11:00pm"],
+        "Cuisine type": "Thai cuisine",
+        "picture": "https://siamais.co.uk/wp-content/uploads/2021/12/Pad-Thai-Prawns-1024x683.jpg"
+      },
+      {
+        "id": "11",
+        "title": "Hermonia Restaurant",
+        "location": ["Lamu", "Lamu Island"],
+        "open": ["5:00am-12:00am"],
+        "Cuisine type": "Mexican cuisine",
+        "picture": "https://www.mayanmexican.com/wp-content/uploads/2021/12/Restaurant-Olympia.jpeg"
+      },
+      {
+        "id": "12",
+        "title": "Xelonia Restaurant",
+        "location": ["Kilifi", "Kuruwitu Beach"],
+        "open": ["6:00am-12:00am"],
+        "Cuisine type": "Premium casual",
+        "picture": "https://experiencequeenstown.com/assets/restaurant/redwoods-premium-casual-dining/_resampled/dining/GeneratedWyIxNTYwIiwiNzY2IixudWxsLG51bGxd/70044541_125265862164163_666925532494954496_n.jpg"
+      }
+     
+    ]
+  }
