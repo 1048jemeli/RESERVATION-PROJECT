@@ -30,3 +30,21 @@ function displayRestaurant(restaurant) {
     setUpRestaurantDetails(restaurant);
   });
 }
+
+function setUpRestaurantDetails(restaurant) {
+  const preview = document.getElementById("picture");
+
+  preview.src = restaurant.picture;
+
+  const restaurantTitle = document.querySelector("#title");
+  restaurantTitle.textContent = restaurant.title;
+
+  const restaurantLocation = document.querySelector("#location");
+  restaurantLocation.textContent = restaurant.location;
+
+  const restaurantCuisineType = document.querySelector("#cuisine-type");
+  restaurantCuisineType.textContent = restaurant["Cuisine type"];
+
+  const restaurantOpeningHours = document.querySelector("#open");
+  restaurantOpeningHours.textContent = restaurant["open"];
+}
